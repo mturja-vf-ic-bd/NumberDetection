@@ -1,6 +1,6 @@
 # Handwritten Number Recognition
 
-A simple handwriting recognition projects to recognize handwritten numbers.
+A simple handwriting recognition project to recognize handwritten numbers.
 
 ## Input
 
