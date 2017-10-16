@@ -5,7 +5,7 @@ A simple handwriting recognition projects to recognize handwritten numbers.
 ## Input
 
 Input of this program is an image - any image with digits in it. An example of such image is given below.
-![Problem Loading Image](testImages/ex4.jpg?raw=true "Sample Input")
+![Problem Loading Image](testImages/ex5.jpg?raw=true "Sample Input")
 
 Limitations:
 1. Does not work if the intensities of the digit pixels are greater than the background pixels.
