@@ -11,7 +11,7 @@ Limitations:
 1. Does not work if the intensities of the digit pixels are greater than the background pixels.
 2. Does not work if the digits are broken into multiple pieces.
 
-##Output
+## Output
 
 Output of this program is an image that has bounding boxes around the original digits and a label describing the actual digit associated with it.
 The sample output for the image in the Input section is given below.
